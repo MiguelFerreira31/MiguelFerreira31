@@ -12,7 +12,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="Sass" src="	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div><br/>
 
 💻 Sou um profissionalde desenvolvimento web, com ampla atuação como freelancer. Possuo habilidades avançadas em Angular, Sass e design de interfaces, garantindo a criação de websites modernos e atraentes. Com formação em Técnico em Informática pelo Senac, destaco-me pelo domínio de HTML, CSS e JavaScript, além de expertise em WordPress. Meu foco em UI/UX me permite criar experiências digitais que cativam e engajam os usuáriosSou
