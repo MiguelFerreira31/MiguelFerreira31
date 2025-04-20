@@ -14,8 +14,11 @@
   <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div><br/>
 
-💻 Sou um profissionalde desenvolvimento web, com ampla atuação como freelancer. Possuo habilidades avançadas em Angular, Sass e design de interfaces, garantindo a criação de websites modernos e atraentes. Com formação em Técnico em Informática pelo Senac, destaco-me pelo domínio de HTML, CSS e JavaScript, além de expertise em WordPress. Meu foco em UI/UX me permite criar experiências digitais que cativam e engajam os usuáriosSou
+💻Meu nome é Miguel Cezar Ferreira, sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, com previsão de conclusão em dezembro de 2026. Apaixonado por tecnologia e inovação, venho me especializando na área de desenvolvimento Full Stack, com foco em soluções web modernas, eficientes e intuitivas.
 
+Ao longo da minha jornada, busquei complementar minha formação acadêmica com diversos cursos técnicos e de extensão. Sou formado como Técnico em Informática para Internet e Técnico em Informática pelo SENAC São Miguel Paulista, e conclui cursos como Desenvolvedor Web Front-End com JavaScript, Angular Interfaces Front-End e Criação e Gerenciamento de Sites em WordPress.
+
+Além da área técnica, também valorizo a comunicação e o aprendizado contínuo de idiomas. Possuo nível intermediário em inglês e estou em processo de aprendizado em espanhol e francês, o que amplia minha capacidade de atuar em ambientes multiculturais e colaborativos.
 
 
 
