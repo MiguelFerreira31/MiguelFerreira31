@@ -12,6 +12,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div><br/>
 
 Sou um Desenvolvedor Full Stack com 3 anos de experiência atuando como freelancer e em ambientes corporativos, com forte domínio no desenvolvimento de aplicações web modernas, escaláveis e orientadas à performance. Experiência sólida em front-end com HTML5, CSS3, SCSS/Sass, JavaScript (ES6+), Angular, jQuery, React e animações com GSAP, além de back-end em PHP seguindo arquitetura MVC, utilização de frameworks, integração com APIs REST e bancos de dados MySQL.
